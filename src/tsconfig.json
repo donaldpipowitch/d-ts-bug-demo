@@ -1,9 +1,7 @@
 {
   "extends": "../tsconfig.base.json",
   "compilerOptions": {
-    "jsx": "react-jsx",
-    "plugins": [
-    ]
+    "plugins": []
   },
   "exclude": ["webpack.config.js"]
 }
